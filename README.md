@@ -8,4 +8,4 @@ In the first part (Regression_Analysis), I created KNN, Lasso, OLS and ARD model
 
 In the second part (Classification_Analysis), I created logistic regression, classification tree, KNN classification, Random forest and Gradient Boosted models. The graphs have been commented out because a requirement for this assignment was speed. The whole notebook runs in 11 - 14 seconds. From the models created, the best scoring one was the Random Forest model with an AUC score of 0.8098.
 
-Finally (Business_Report), a report was written to management with some business insights based on the models created and chosen.
+Finally (Analysis_Report), a report was written to management with some business insights based on the models created and chosen.
